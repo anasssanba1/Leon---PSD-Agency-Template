@@ -5,13 +5,7 @@ https://www.graphberry.com/item/leon-psd-agency-template
 ### live preview:
 https://famous-unicorn-ec4d6f.netlify.app  <br/>
 <br/>
-`created by anass sanba.`
-
 ```diff
-+ Green
-- Red
-! Orange
-@@ Pink @@
-# Gray
+`created by anass sanba.`
 ...
 
